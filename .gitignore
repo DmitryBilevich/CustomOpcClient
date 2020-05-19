@@ -1,0 +1,10 @@
+/CustomOpcClient/bin
+/CustomOpcClient/obj
+/.vs
+/packages
+/CustomOpcClient.Domain/bin
+/CustomOpcClient.Domain/obj
+/CustomOpcClient.Domain.Model/bin
+/CustomOpcClient.Domain.Model/obj
+/OpcDAClient/bin
+/OpcDAClient/obj
